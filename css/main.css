@@ -1,0 +1,19 @@
+body {
+  margin: 0; }
+
+.CodeMirror {
+  width: 60vw;
+  height: 80vh; }
+
+h2 {
+  display: block;
+  width: 60vw;
+  font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  font-weight: 300;
+  color: #e06c75;
+  text-align: left;
+  text-indent: 2%;
+  background-color: #1C1E24;
+  line-height: 1.2em;
+  font-size: 1em;
+  margin: 0; }
